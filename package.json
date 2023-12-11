@@ -1,0 +1,16 @@
+{
+  "name": "apollo-client-deduplication-fail",
+  "version": "1.0.0",
+  "description": "Test to show apollo client deduplication fail when using client fields, resolvers and batched queries.",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@apollo/client": "^3.8.8",
+    "graphql": "^16.8.1",
+    "jest": "^29.7.0",
+    "lodash": "^4.17.21",
+    "react": "^18.2.0"
+  }
+}
